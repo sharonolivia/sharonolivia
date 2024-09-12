@@ -4,11 +4,11 @@ Welcome to my GitHub profile!
 
 ## About me
 
-I'm a Data Scientist with a Master’s in Data Science and a background in full stack software engineering. I have experience in data analysis, predictive modeling, technical architecture design, and web development.
+I'm a data scientist with a Master’s in Data Science and a background in full stack software engineering. I have experience in data analysis, predictive modeling, technical architecture design, and web development.
 
 ## How to reach me
 
-- 📩 Email: sharonolivia99.gmail.com
+- 📩 Email: sharonolivia99@gmail.com
 - 📫 [LinkedIn](https://www.linkedin.com/in/sharon-olivia-dodda/) 
 
 <!--
