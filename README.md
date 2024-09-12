@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## About me
+
+I'm a Data Scientist with a Master’s in Data Science and a background in full stack software engineering. I have experience in data analysis, predictive modeling, technical architecture design, and web development.
+
 <!--
 **sharonolivia/sharonolivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
