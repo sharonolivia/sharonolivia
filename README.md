@@ -9,7 +9,7 @@ I'm a Data Scientist with a Master’s in Data Science and a background in full 
 ## How to reach me
 
 - 📩 Email: sharonolivia99.gmail.com
-- 📫 [LinkedIn] (https://www.linkedin.com/in/sharon-olivia-dodda/) 
+- 📫 [LinkedIn](https://www.linkedin.com/in/sharon-olivia-dodda/) 
 
 <!--
 **sharonolivia/sharonolivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
